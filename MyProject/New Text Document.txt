@@ -1,0 +1,1 @@
+scp -i "sandeep1.pem" -r C:\Users\sande\Downloads\MyProject\ ec2-54-89-221-15.compute-1.amazonaws.com:/home/ubuntu/MyProject
